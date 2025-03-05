@@ -1,0 +1,4 @@
+Analisis
+	Pada tugas ini, saya mencoba menjalankan program dengan menggunakan deep learning. Berbeda dari praktikum sebelumnya yang hanya mendeteksi warna pada suatu objek, praktikum kali ini menggunakan deep learning night vision yang dapat mendeteksi dalam kondisi gelap atau malam hari. Sebelum melakukan percobaan, kami menggunakan dataset dari situs Kaggle. Kemudian, kami menjalankan program berdasarkan modul yang telah diberikan. Setelah itu, kami melakukan percobaan dan pengambilan data.
+
+	Berdasarkan hasil percobaan yang telah saya lakukan, saat kondisi siang hari, seperti pada tabel nomor satu, kamera mendeteksi jalanan dan menghasilkan warna merah. Sedangkan pada tabel nomor dua, kamera mendeteksi jalanan dalam kondisi malam hari dan menghasilkan warna biru. Dapat disimpulkan bahwa semakin terang cahaya, warna yang dihasilkan adalah merah, sedangkan semakin redup cahaya, warna yang dihasilkan adalah biru.
